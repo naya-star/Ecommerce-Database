@@ -68,21 +68,6 @@ Size Option: Size 9
 
 SKU Example: NZP-001-BK9
 
-Contributions
-Built by Naomi Wairimu https://github.com/naya-star
-
-Bachelor of Information Technology | Mount Kenya University
-Future Tech Leader | System Administrator | Software Developer
-
-Future Improvements
-Add customer orders and payment tables.
-
-Implement soft deletes (e.g., using an is_active flag).
-
-Include audit trails (created_at, updated_at timestamps).
-
-Seed more realistic ecommerce data for testing.
-
 File Structure
 /ecommerce-database/
     │
