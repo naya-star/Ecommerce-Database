@@ -3,7 +3,7 @@ Project Overview
 This project involves the design and creation of a relational database for an Ecommerce platform. The database manages brands, products, categories, images, variations (such as size and color), product attributes, and stock management — ensuring a fully scalable product catalog system.
 
 Built using MySQL 8.0 via Command Line Interface.
-🛠️ Technologies Used
+Technologies Used
 Database: MySQL 8.0 Community Edition
 
 Tools: MySQL Command Line Client
