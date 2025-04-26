@@ -27,7 +27,7 @@ product_item	Manages stock units (SKU, quantity, price)
 product_attribute	Additional product specifications (e.g., material)
 attribute_category	Defines groups for attributes
 attribute_type	Defines types of attributes
-🔗 Entity Relationships
+Entity Relationships
 Each brand can have many products.
 
 Each product category can group multiple products.
